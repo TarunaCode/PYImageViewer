@@ -1,7 +1,7 @@
 #/usr/bin/env python3
 
 
-#: main script for bootable-maker program
+#: PYImageViewer, For Viewing various image file
 #: Copyright TarunaCode(C) 2020-2021
 #:
 #: This Program is free software: you can redistribute it and/or modify
